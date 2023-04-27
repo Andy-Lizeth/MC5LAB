@@ -2,10 +2,10 @@
 
 prácticas métodos cuantitativos 
 Explicación de la [regresión lineal](https://rpubs.com/joser/RegresionSimple). 
-
+ggsadsadas
 ## Análisis de varianza
 Explicación de la [regresión lineal](https://rpubs.com/joser/RegresionSimple). 
-
+ggahauhduqsds
 ## Regresión lineal generalizada (GLM)
 Explicación de la [regresión lineal](https://rpubs.com/joser/RegresionSimple). 
 
