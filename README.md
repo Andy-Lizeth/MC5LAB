@@ -1,4 +1,5 @@
 # MC5LAB
+
 prácticas métodos cuantitativos 
 Explicación de la [regresión lineal](https://rpubs.com/joser/RegresionSimple). 
 
