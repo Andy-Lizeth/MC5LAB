@@ -11,10 +11,11 @@ Explicación de la [regresión lineal](https://rpubs.com/joser/RegresionSimple).
 
 ## Modelos generales acumulativos (GAM)
 Explicación de la [regresión lineal](https://rpubs.com/joser/RegresionSimple). 
-## Análisis espacial en RqdqwadassAD
+## Análisis espacial en R
 Explicación de la [regresión lineal](https://rpubs.com/joser/RegresionSimple). 
 ## Análisis filogenético en R
 Explicación de la [regresión lineal](https://rpubs.com/joser/RegresionSimple). 
+JJSDNASN
 ## Estadística Bayesiana
 Explicación de la [regresión lineal](https://rpubs.com/joser/RegresionSimple). 
 ## Análisis de series temporales
