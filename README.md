@@ -1,6 +1,7 @@
 # MC5LAB
 
-##rácticas métodos cuantitativos 
+##Prácticas métodos cuantitativos 
+
 Explicación de la [regresión lineal](https://rpubs.com/joser/RegresionSimple). 
 
 ## Análisis de varianza
