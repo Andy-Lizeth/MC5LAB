@@ -19,6 +19,7 @@ Es la técnica básica del análisis econométrico , en la cual se trata de dete
  
 ## Análisis espacial en R
 
+Permite resolver problemas complejos orientados a la ubicación, explorar y entender sus datos desde una perspectiva geográfica, determinar relaciones, detectar y cuantificar patrones.
 
 ## Análisis filogenético en R
 
