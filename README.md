@@ -7,7 +7,7 @@
 - Supuestos para que exista la regresión lineal
 - **Error distribuido normalmente**
 -**Varianza es contstante**
--
+-**Medidas son independientes**
 
 ## Análisis de varianza
 
