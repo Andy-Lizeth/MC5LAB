@@ -5,9 +5,13 @@
 ##Regresión Líneal
 
 - Supuestos para que exista la regresión lineal
-- **Error distribuido normalmente**
--**Varianza es contstante**
--**Medidas son independientes**
+
+-1.-**Error distribuido normalmente**
+-2.-**Varianza es contstante**
+-3.-**Medidas son independientes**
+-4.-consultar
+
+
 
 ## Análisis de varianza
 
