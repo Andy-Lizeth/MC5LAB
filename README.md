@@ -2,7 +2,12 @@
 
 ##Prácticas métodos cuantitativos 
 
-Explicación de la [regresión lineal](https://rpubs.com/joser/RegresionSimple). 
+##Regresión Líneal
+
+- Supuestos para que exista la regresión lineal
+- **Error distribuido normalmente**
+-**Varianza es contstante**
+-
 
 ## Análisis de varianza
 
